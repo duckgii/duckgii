@@ -8,7 +8,13 @@
 </p></a>
            
 <div align="center">
+   <a href="https://solved.ac/shin9063/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shin9063" alt="Solved.ac Profile">
+    </a>
+           <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=duckgii&show_icons=true&theme=gruvbox" alt="duckgii's GitHub stats">
+           <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckgii&layout=compact" alt="Top Languages Used">     
 </div>
 
 <!--
