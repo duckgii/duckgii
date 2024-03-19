@@ -1,6 +1,9 @@
 ### Hi there 👋
+***
+<t>
+<img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/42 Seoul-000000?style=flat&logo=42Seoul&logoColor=FFFFFF"/>
+</t>
 
 <!--
 **duckgii/duckgii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A
