@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=300&section=header&text=Hi%20there%20👋&fontSize=90" />
 <t>
 <a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=FFFFFF"/>
+<a href="https://www.notion.so/958dff6998fe4fd2a3cf6fb24f2385c2?v=ad6fa1ef67c5452aa8cdcc514de912b0"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=FFFFFF"/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduckgii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false"/></a>        
 </t>
              
