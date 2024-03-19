@@ -3,6 +3,10 @@
 <t>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=FFFFFF"/>
 </t>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fduckgii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false"/></a>        
+
+             
+
 
 <!--
 **duckgii/duckgii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
