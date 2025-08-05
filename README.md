@@ -4,7 +4,7 @@
 <h3 class="code-line" data-line-start=0 data-line-end=1 ><a id="Who_Am_I_0"></a>Who Am I</h3>
 <ul>
 <li class="has-line-data" data-line-start="1" data-line-end="2">🌱 I’m currently learning Swift, Docker, Algorithm</li>
-<li class="has-line-data" data-line-start="2" data-line-end="3">🥇 I majored in Chemical eEgineering and Computer Engineering</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">🥇 I majored in Chemical Egineering and Computer Engineering</li>
 <li class="has-line-data" data-line-start="3" data-line-end="5">🚅 My hometown is Haman, Gyeongsangnam-do in Korea</li>
 </ul>
 <h3 class="code-line" data-line-start=5 data-line-end=6 ><a id="Experience_5"></a>Experience</h3>
