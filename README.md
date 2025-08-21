@@ -12,6 +12,7 @@
 <li class="has-line-data" data-line-start="6" data-line-end="7">🎓 Hongik University , Chemical eEgineering and Computer Engineering (2020.03 ~ now)</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">🖥️ Member, 42Seoul Innovation Academy (2023.09 ~ now)</li>
 <li class="has-line-data" data-line-start="8" data-line-end="10">⛳️ 삼성전자DX 알고리즘 특강 (2025.02.03 ~ 2025.02.28)</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">🧑🏻‍🔬 홍익대학교 학부연구생(공정 경제성 평가 자동화) (2025.08.21 ~ now)</li>
 </ul>
 <h3 class="code-line" data-line-start=10 data-line-end=11 ><a id="What_I_Like_10"></a>What I Like</h3>
 <ul>
